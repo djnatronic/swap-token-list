@@ -2,7 +2,7 @@
   "name": "Harmony Token List",
   "version": {
     "major": 2,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "logoURI": "https://harmony.one/logo",
@@ -239,9 +239,9 @@
     },
     {
       "chainId": 1666600000,
-       "address": "0xe4EE991aa59e0c2c6a617FD8fEeA85E0E446cd92",
-       "symbol": "KAQ",
-       "name": "KingsAndQuests",
+       "address": "0x3Dbbdd9487c44f934E0DAd94688b40B765eD3D16",
+       "symbol": "KINGS",
+       "name": "KINGS Game Token",
        "decimals": 18,
        "logoURI": "https://raw.githubusercontent.com/harmony-one/swap-token-list/main/assets/KAQ/logo.png"
      },
